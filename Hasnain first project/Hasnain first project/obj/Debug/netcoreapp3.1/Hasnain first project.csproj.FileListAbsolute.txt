@@ -1,0 +1,13 @@
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\bin\Debug\netcoreapp3.1\Hasnain first project.exe
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\bin\Debug\netcoreapp3.1\Hasnain first project.deps.json
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\bin\Debug\netcoreapp3.1\Hasnain first project.runtimeconfig.json
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\bin\Debug\netcoreapp3.1\Hasnain first project.runtimeconfig.dev.json
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\bin\Debug\netcoreapp3.1\Hasnain first project.dll
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\bin\Debug\netcoreapp3.1\Hasnain first project.pdb
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.csprojAssemblyReference.cache
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.AssemblyInfoInputs.cache
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.AssemblyInfo.cs
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.csproj.CoreCompileInputs.cache
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.dll
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.pdb
+C:\Users\hasna\source\repos\Hasnain first project\Hasnain first project\obj\Debug\netcoreapp3.1\Hasnain first project.genruntimeconfig.cache
